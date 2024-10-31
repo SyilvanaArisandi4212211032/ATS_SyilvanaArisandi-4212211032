@@ -1,0 +1,1 @@
+Buat program untuk klasifikasi karakter tulisan tangan pada dataset EMNIST (Extended MNIST) menggunakan HOG Feature Extraction dengan klasifier Support Vector Machine (SVM). 
